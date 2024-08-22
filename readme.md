@@ -1,2 +1,2 @@
-<!-- This is the main page for the San Joaquin Valley Town Hall website -->
-
+// Author: Colby D.
+// Purpose: Module 2's Lecture Activity
