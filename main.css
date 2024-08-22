@@ -15,3 +15,4 @@ border-bottom: 3px solid #EF9C00; /* Add a line below h2s */
 ul {
 list-style-type: square; /* Changes the bullets to squares */
 }
+.content { background-color: blue; /* "blu" is not a valid color value. It should be "blue". */ }
